@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff484396-ae79-40eb-a560-dbbcfd3917d9" name="Changes" comment="" />
+    <list default="true" id="ff484396-ae79-40eb-a560-dbbcfd3917d9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/dist/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/getting-started.md.9a5510a0.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/getting-started.md.9a5510a0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/assets/getting-started.md.9a5510a0.lean.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/dist/assets/getting-started.md.9a5510a0.lean.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/getting-started.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/dist/getting-started.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/getting-started.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/git-flow.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/_metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/esbuild-darwin-64/bin/esbuild" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/esbuild-darwin-64/bin/esbuild" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/esbuild-darwin-64/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/esbuild-darwin-64/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/esbuild/bin/esbuild" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/esbuild/bin/esbuild" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/esbuild/install.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/esbuild/install.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/esbuild/lib/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/esbuild/lib/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/esbuild/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/esbuild/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +30,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2ITanbtIKI8XHZf76cg6mCo3I84" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670208195457</updated>
       <workItem from="1670208196431" duration="7000" />
-      <workItem from="1670208205551" duration="1466000" />
+      <workItem from="1670208205551" duration="3141000" />
     </task>
     <servers />
   </component>

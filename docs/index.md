@@ -10,11 +10,6 @@ Actualmente, soy un Staff Software Engineer con más de 5 años de experiencia e
 
 Me gustaría saber de ustedes, si les ha gustado (o no) alguno de los posts que he escrito, o si tienen alguna sugerencia o pregunta, por favor no duden en contactarme.
 
-Les dejo mis redes sociales :)
-
-Twitter: [@gbumanzordev](https://twitter.com/gbumanzordev) <br>
-Instagram: [@gbumanzordev](https://instagram.com/gbumanzordev) <br>
-GitHub: [@gbumanzordev](https://github.com/gbumanzordev) <br>
-E-Mail: [contact@gbumanzor.dev](mailto:contact@gbumanzor.dev)
+Mis redes sociales estan en la barra superior a la derecha, espero saber de ustedes :) 
 
 Tengan un bonito dia :D
