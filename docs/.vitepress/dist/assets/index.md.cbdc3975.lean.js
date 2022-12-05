@@ -1,0 +1,1 @@
+import{_ as e,c as a,o,a as r}from"./app.bf64a9c0.js";const _=JSON.parse('{"title":"Bienvenidos a mi blog!","description":"","frontmatter":{},"headers":[],"relativePath":"index.md"}'),n={name:"index.md"},t=r("",9),s=[t];function i(d,l,p,c,m,u){return o(),a("div",null,s)}const g=e(n,[["render",i]]);export{_ as __pageData,g as default};
